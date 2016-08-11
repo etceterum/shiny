@@ -1,0 +1,6 @@
+[submodule "dependencies/OpenSceneGraph"]
+	path = dependencies/OpenSceneGraph
+	url = https://github.com/openscenegraph/OpenSceneGraph
+[submodule "dependencies/mruby"]
+	path = dependencies/mruby
+	url = https://github.com/mruby/mruby
